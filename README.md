@@ -140,7 +140,7 @@ Busco oportunidades donde pueda combinar mi experiencia en gestión empresarial 
 
 📧 **Correo:** *(catalina.duque.diaz@gmail.com )*
 
-🌐 **Portafolio en Notion:** *([Agregar enlace público.](https://app.notion.com/p/Portafolio-Profesional-3c8ea9f7feee807ba167f79d7996ad00?pvs=12))*
+🌐 **Portafolio en Notion:** *((https://app.notion.com/p/Portafolio-Profesional-3c8ea9f7feee807ba167f79d7996ad00?pvs=12))*
 
 ---
 
