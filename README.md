@@ -76,7 +76,7 @@ Proyecto orientado al análisis financiero mediante consultas SQL para responder
 - SQL
 - SQL Server
 
-🔗 Repositorio: *(Agregar enlace)*
+🔗 Repositorio: *https://app.notion.com/p/An-lisis-del-desempe-o-financiero-con-SQL-3c8ea9f7feee804fafa7d3376fe126b4*
 
 ---
 
@@ -90,7 +90,7 @@ Análisis exploratorio de datos utilizando Python para identificar patrones y te
 - Pandas
 - Matplotlib
 
-🔗 Repositorio: *https://app.notion.com/p/An-lisis-del-desempe-o-financiero-con-SQL-3c8ea9f7feee804fafa7d3376fe126b4*
+🔗 Repositorio: *https://app.notion.com/p/Mobility-Economy-Analysis-with-Python-3c8ea9f7feee806db09ff52490a62750*
 
 ---
 
