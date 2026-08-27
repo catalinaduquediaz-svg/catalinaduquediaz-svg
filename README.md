@@ -47,7 +47,7 @@ Proyecto real de transformación digital en el que participé en:
 - QA Funcional
 - Gestión de Procesos
 
-📖 **Documentación completa:** *(Aquí agregaremos el enlace público de Notion.)*
+📖 **Documentación completa:** *https://app.notion.com/p/Transformaci-n-Digital-de-Kaboom-Bogot-3c8ea9f7feee80ea976bf68c7a4ae5cb*
 
 ---
 
@@ -63,7 +63,7 @@ Proyecto desarrollado en **Power BI** para analizar indicadores comerciales, ven
 - DAX
 - Power Query
 
-🔗 Repositorio: *(Agregar enlace)*
+🔗 Repositorio: *https://app.notion.com/p/Dashboard-Comercial-de-Ventas-Power-BI-3c7ea9f7feee8055b97bf32434383ba9*
 
 ---
 
@@ -90,7 +90,7 @@ Análisis exploratorio de datos utilizando Python para identificar patrones y te
 - Pandas
 - Matplotlib
 
-🔗 Repositorio: *(Agregar enlace)*
+🔗 Repositorio: *https://app.notion.com/p/An-lisis-del-desempe-o-financiero-con-SQL-3c8ea9f7feee804fafa7d3376fe126b4*
 
 ---
 
