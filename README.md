@@ -1,7 +1,7 @@
 # catalinaduquediaz-svg
 Business Administrator | Data Analyst | QA | Power BI | SQL | Python
 <p align="center">
-  <img src="assets/banner-github.png" alt="Banner Catalina Duque Díaz" width="100%">
+  <img src="assets/banner-github.png.png" alt="Banner Catalina Duque Díaz" width="100%">
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy Catalina Duque Díaz</h1>
