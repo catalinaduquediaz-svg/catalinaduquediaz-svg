@@ -136,7 +136,7 @@ Busco oportunidades donde pueda combinar mi experiencia en gestión empresarial 
 
 # 📫 Contacto
 
-💼 **LinkedIn:** *(catalinaduquediaz)*
+💼 **LinkedIn:** *(https://www.linkedin.com/in/catalinaduquediaz/)*
 
 📧 **Correo:** *(catalina.duque.diaz@gmail.com )*
 
